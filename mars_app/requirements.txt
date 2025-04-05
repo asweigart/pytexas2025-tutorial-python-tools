@@ -1,0 +1,7 @@
+pyperclip
+whatismyip
+pytweening
+cliprec
+pyaudacity
+pwinput
+showcallstack
