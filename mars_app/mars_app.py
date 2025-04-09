@@ -5,6 +5,6 @@ import cliprec
 import pyaudacity
 import pwinput
 import showcallstack
-
+import examplesky
 
 print('Success.')
